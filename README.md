@@ -31,8 +31,8 @@ The region between $r_+$ and $r_{s+}$ is the **ergosphere**, where frame-draggin
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/corradomarzano/Kerr-Interactive-Viz.git](https://github.com/corradomarzano/Kerr-Interactive-Viz.git)
-   cd Kerr-Interactive-Viz
+   git clone [https://github.com/corradomarzano/Kerr-Spacetime-Simulation.git](https://github.com/corradomarzano/Kerr-Spacetime-Simulation.git)
+   cd Kerr-Spacetime-Simulation
 
 2. **Install dependencies:**
    ```bash
@@ -56,12 +56,3 @@ The tool visualizes four nested surfaces:
 **Author**: [Corrado Marzano](https://www.linkedin.com/in/corrado-marzano-7846353a8/)
 
 **Research Context**: Developed as a computational tool to study and illustrate the dynamics of compact objects and General Relativity for my Experimental Gravitation (Data Analysis) exam.
-
----
-
-### File `requirements.txt`
-
-```text
-numpy
-plotly
-matplotlib
