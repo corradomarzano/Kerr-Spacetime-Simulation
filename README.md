@@ -5,7 +5,7 @@
 [![Plotly](https://img.shields.io/badge/Visualization-Plotly-orange)](https://plotly.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository provides an interactive 3D visualization of the **Kerr metric** geometry, representing a rotating, uncharged black hole. Using Python and Plotly, this tool allows users to explore the mathematical boundaries of rotating spacetimes, including event horizons and ergoregions.
+This repository provides an interactive 3D visualization of the **Kerr metric** geometry, representing a rotating, uncharged black hole. Using Python and Plotly, this tool allows users to explore the mathematical boundaries of rotating spacetimes, including event horizons and ergospheres.
 
 ## 🔭 Physics Background
 
@@ -16,16 +16,16 @@ The radial coordinates where the metric coefficient $\Delta = r^2 - 2Mr + a^2$ v
 $$r_\pm = M \pm \sqrt{M^2 - a^2}$$
 where $a = J/M$ is the spin parameter.
 
-### 2. Ergoregions (Static Limits, $r_{s\pm}$)
+### 2. Ergospheres (Static Limits, $r_{s\pm}$)
 The boundaries where the temporal component of the metric $g_{tt}$ vanishes:
 $$r_{s\pm} = M \pm \sqrt{M^2 - a^2 \cos^2 \theta}$$
 
-The region between $r_+$ and $r_{s+}$ is the **ergosphere**, where frame-dragging is so intense that stationary observers cannot exist.
+The region between $r_+$ and $r_{s+}$ is the **ergoregion**, where frame-dragging is so intense that stationary observers cannot exist.
 
 ## 🚀 Key Features
 
 - **Interactive 3D Rendering:** Explore the event horizons and ergoregions from any angle.
-- **Real-time Spin Manipulation:** Includes a Plotly-based slider to vary the spin parameter $a$ from $0$ (Schwarzschild limit) to $M$ (Extremal Kerr black hole).
+- **Real-time Spin Manipulation:** Includes a Plotly-based slider to vary the spin parameter $a$ from $0 M$ (Schwarzschild limit) to $1 M$ (Extremal Kerr black hole).
 - **Coordinate Mapping:** Accurate transformation from Boyer-Lindquist coordinates to Cartesian $(x, y, z)$ for realistic spatial representation.
 
 ## 🛠️ Installation & Usage
