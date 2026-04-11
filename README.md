@@ -40,7 +40,7 @@ The region between $r_+$ and $r_{s+}$ is the **ergoregion**, where frame-draggin
    pip install -r requirements.txt
 
 3. **Run the visualizer:**
-   - **Option A (Jupyter)**: Open Kerr_Visualizer.ipynb in JupyterLab or VS Code and run all cells.
+   - **Option A (Jupyter)**: Open Kerr_Visualizer.ipynb in JupyterLab, Google Colab or Visual Studio Code and run all cells.
    - **Option B (Python script)**: If you exported the script, run:
    ```bash
    python Kerr_Visualizer.py
@@ -48,7 +48,7 @@ The region between $r_+$ and $r_{s+}$ is the **ergoregion**, where frame-draggin
 ## 📊 Key Features
 The tool visualizes four nested surfaces:
 - **Outer Ergosphere**: The limit for static observers, that inside this region must co-rotate with the Black Hole and cannot remain static.
-- **Outer Event Horizon**: The point of no return where everything, even light, must go towards the singularity located at the center of the Black Hole.
+- **Outer Event Horizon**: The point of no return beyond which everything, even light, must go towards the singularity located at the center of the Black Hole.
 - **Inner Event Horizon & Inner Ergosphere**: Theoretical boundaries within the Cauchy horizon, with same properties as their outer counterparts.
 
 **Tip**: Use the slider at the bottom of the interactive plot to change the spin parameter $a$ and watch the Event Horizons and Ergospheres deform!
