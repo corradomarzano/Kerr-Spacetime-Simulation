@@ -1,5 +1,5 @@
 # Interactive Kerr Spacetime Visualization 🌌
-[🇮🇹 Leggi in Italiano](LEGGIMI.md) | [🇬🇧 Read in English](README.md)
+[Leggi in Italiano (IT)](LEGGIMI.md) | [Read in English (EN)](README.md)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Plotly](https://img.shields.io/badge/Visualization-Plotly-orange)](https://plotly.com/)
