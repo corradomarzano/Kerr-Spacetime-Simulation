@@ -1,5 +1,9 @@
 # Visualizzazione Interattiva dello Spaziotempo di Kerr 🌌
-[🇬🇧 Read in English](README.md) | [🇮🇹 Leggi in Italiano](LEGGIMI.md)
+[Read in English (EN)](README.md) | [Leggi in Italiano (IT)](LEGGIMI.md)
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Plotly](https://img.shields.io/badge/Visualization-Plotly-orange)](https://plotly.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Questa repository offre una visualizzazione 3D interattiva della **metrica di Kerr**, che descrive la geometria dello spaziotempo attorno a un buco nero rotante non carico.
 
