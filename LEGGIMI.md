@@ -2,8 +2,8 @@
 [Read in English (EN)](README.md) | [Leggi in Italiano (IT)](LEGGIMI.md)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![Plotly](https://img.shields.io/badge/Visualizzazione-Plotly-orange)](https://plotly.com/)
-[![License: MIT](https://img.shields.io/badge/Licenza-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Plotly](https://img.shields.io/badge/Visualization-Plotly-orange)](https://plotly.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Questa repository offre una visualizzazione 3D interattiva della **metrica di Kerr**, che descrive la geometria dello spaziotempo attorno a un buco nero rotante non carico. Utilizzando Python e Plotly, questo strumento permette di esplorare le superfici matematiche e i limiti che caratterizzano gli spaziotempi rotanti, tra cui gli orizzonti degli eventi e le ergosfere.
 
